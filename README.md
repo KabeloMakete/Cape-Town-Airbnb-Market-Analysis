@@ -1,7 +1,7 @@
 # Cape-Town-Airbnb-Market-Analysis 
 Exploratory market analysis and visualization of Cape Town Airbnb listings using Tableau Public
 
-# Cape Town Airbnb Market Analysis 🏡📊
+# Cape Town Airbnb Market Analysis 
 
 ## Project Overview
 This project analyses the Cape Town Airbnb market to uncover pricing trends,
@@ -14,7 +14,7 @@ skills relevant to roles in analytics, finance, banking, and consulting.
 ---
 
 ## Live Dashboard (Tableau Public)
-👉 **View the interactive dashboard here:**  
+ **View the interactive dashboard here:**  
 https://public.tableau.com/app/profile/kabelo.makete/viz/CapeTownAirbnbMarketDataProject/CapeTownAirbnbMarketOverview
 
 ---
@@ -51,9 +51,24 @@ https://public.tableau.com/app/profile/kabelo.makete/viz/CapeTownAirbnbMarketDat
 - Mid-Higher priced listings tend to attract more reviews indicating higher occupancy levels
 
 ---
+## Data Source
 
-## Author
+**Dataset name:** airbnb_Cape_Town_Western Cape_South Africa
+
+**Source:** Kaggle
+
+**URL:** https://www.kaggle.com/datasets/shimaaraouf/airbnb-cape-town-western-cape-south-africa/data
+
+**License:** Unknown
+
+**Date downloaded:** 2025-12-23
+
+---
+
+## Contact
 **Kabelo Makete**  
 BCom Financial Management | Aspiring Financial & Data Analyst  
-LinkedIn: https://www.linkedin.com/in/kabelo-makete-68994b205/
+**LinkedIn:** https://www.linkedin.com/in/kabelo-makete-68994b205/
+
+
 
