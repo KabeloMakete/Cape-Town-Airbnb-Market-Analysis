@@ -1,5 +1,10 @@
 # Cape-Town-Airbnb-Market-Analysis 
-Exploratory market analysis and visualization of Cape Town Airbnb listings using Tableau Public
+Exploratory market analysis and visualization of Cape Town Airbnb listings using Tableau Public.
+
+Prices above R10 000 per night were treated as outliers and excluded from average calculations.
+
+Data up to year 2024. Last updated 2024.
+
 
 # Cape Town Airbnb Market Analysis 
 
@@ -10,6 +15,8 @@ interactive Tableau dashboards.
 
 The goal is to demonstrate data analysis, visualization, and business insight
 skills relevant to roles in analytics, finance, banking, and consulting.
+
+
 
 ---
 
@@ -38,8 +45,17 @@ https://public.tableau.com/app/profile/kabelo.makete/viz/CapeTownAirbnbMarketDat
 
 ## Dashboard Preview
 
-![Cape Town Airbnb Market Overview](Screenshots/market_overview.png)
+**CAPE TOWN AIRBNB MARKET OVERVIEW DASHBOARD**
 
+![Cape Town Airbnb Market Overview](Dashboard_Images_Capetown_Airbnb/Cape_Town_Airbnb_Market_Overview.png)
+
+
+---
+
+
+**CAPE TOWN AIRBNB PRICING & DEMAND ANALYSIS DASHBOARD**
+
+![Cape Town Airbnb Market Overview](Dashboard_Images_Capetown_Airbnb/Cape_Town_Airbnb_Pricing_&_Demand_Analysis.png)
 
 
 ---
@@ -55,7 +71,7 @@ https://public.tableau.com/app/profile/kabelo.makete/viz/CapeTownAirbnbMarketDat
 
 **Dataset name:** airbnb_Cape_Town_Western Cape_South Africa
 
-**Source:** Kaggle
+**Source:** Kaggle | Shimaa Ibrahim
 
 **URL:** https://www.kaggle.com/datasets/shimaaraouf/airbnb-cape-town-western-cape-south-africa/data
 
