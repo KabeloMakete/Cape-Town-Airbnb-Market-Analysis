@@ -22,8 +22,7 @@ skills relevant to roles in analytics, finance, banking, and consulting.
 
 ## Live Dashboards (Tableau Public)
  **View the interactive dashboards here:**  
-https://public.tableau.com/app/profile/kabelo.makete/viz/CapeTownAirbnbMarketDataProject/CapeTownAirbnbMarketOverview
-
+https://public.tableau.com/app/profile/kabelo.makete/viz/CapeTownAirbnbMarketDataProject/CapeTownAirbnbMarketOverview?publish=yes
 ---
 
 ## Key Questions Answered
